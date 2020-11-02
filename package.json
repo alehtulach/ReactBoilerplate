@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/alehtulach/ReactBoilerplate#readme",
   "dependencies": {
+    "css-loader": "^5.0.0",
+    "file-loader": "^6.2.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "style-loader": "^2.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
