@@ -10,7 +10,7 @@ class App extends React.Component {
                 <Router>
                     <Switch>
                         <Route path="/login" component={Login} />
-                        <Route path='/oauth_callback' component={LoginCallback} />
+                        <Route path="/oauth_callback" component={LoginCallback} />
                     </Switch>
                 </Router>
             </div>
